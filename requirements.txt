@@ -34,3 +34,5 @@ urllib3==1.25.8
 webencodings==0.5.1
 Werkzeug==1.0.1
 wrapt==1.12.1
+
+#https://www.youtube.com/watch?v=3BxLyZWwYoI&t=366s
